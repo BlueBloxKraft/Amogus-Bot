@@ -1,2 +1,2 @@
 # Amogus-Bot
-Just a stupid bot lol
+Just a bot I made using (https://github.com/DV8FromTheWorld)[JDA]
